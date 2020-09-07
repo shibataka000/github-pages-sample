@@ -1,1 +1,1 @@
-# site-test
+# github-pages-sample
